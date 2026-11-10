@@ -1,0 +1,193 @@
+{
+ "_說明": "這個檔案放程式抓不到、需要手動更新的資料：台灣總經數據與財經行事曆。改完存檔上傳，下次排程就會顯示。",
+ "tw_rediscount": 2.0,
+ "tw_rediscount_date": "2026-09-17 理監事會",
+ "tw_rate_monthly": [],
+ "tw_indicators": [
+  {
+   "name": "CPI 年增率",
+   "value": 2.33,
+   "unit": "%",
+   "period": "2026-10",
+   "prev": 2.74,
+   "prev_period": "2026-09"
+  },
+  {
+   "name": "核心 CPI 年增率",
+   "value": 2.23,
+   "unit": "%",
+   "period": "2026-10",
+   "prev": null,
+   "prev_period": ""
+  },
+  {
+   "name": "實質 GDP 年增率",
+   "value": 14.36,
+   "unit": "%",
+   "period": "2026 Q3 概估",
+   "prev": 12.93,
+   "prev_period": "2026 Q2"
+  },
+  {
+   "name": "出口年增率",
+   "value": 58.9,
+   "unit": "%",
+   "period": "2026-10",
+   "prev": 60.9,
+   "prev_period": "2026-09",
+   "decimals": 1
+  },
+  {
+   "name": "出口金額",
+   "value": 967.6,
+   "unit": "億美元",
+   "period": "2026-10",
+   "prev": null,
+   "prev_period": "",
+   "decimals": 1
+  },
+  {
+   "name": "製造業 PMI",
+   "value": 62.5,
+   "unit": "",
+   "period": "2026-10",
+   "prev": 63.4,
+   "prev_period": "2026-09",
+   "decimals": 1
+  },
+  {
+   "name": "景氣對策信號（紅燈）",
+   "value": 41,
+   "unit": "分",
+   "period": "2026-09",
+   "prev": 40,
+   "prev_period": "2026-08",
+   "decimals": 0
+  },
+  {
+   "name": "失業率",
+   "value": 3.36,
+   "unit": "%",
+   "period": "2026-09",
+   "prev": 3.41,
+   "prev_period": "2026-08"
+  },
+  {
+   "name": "央行重貼現率",
+   "value": 2.0,
+   "unit": "%",
+   "period": "2026-09-17",
+   "prev": 2.0,
+   "prev_period": "2026-06"
+  }
+ ],
+ "tw_cpi": [
+  [
+   "2025-09",
+   1.25
+  ],
+  [
+   "2025-10",
+   1.47
+  ],
+  [
+   "2025-11",
+   1.21
+  ],
+  [
+   "2025-12",
+   1.3
+  ],
+  [
+   "2026-01",
+   0.71
+  ],
+  [
+   "2026-02",
+   1.75
+  ],
+  [
+   "2026-03",
+   1.2
+  ],
+  [
+   "2026-04",
+   1.72
+  ],
+  [
+   "2026-05",
+   2.19
+  ],
+  [
+   "2026-06",
+   2.59
+  ],
+  [
+   "2026-07",
+   2.54
+  ],
+  [
+   "2026-08",
+   2.04
+  ],
+  [
+   "2026-09",
+   2.74
+  ],
+  [
+   "2026-10",
+   2.33
+  ]
+ ],
+ "calendar": [
+  {
+   "date": "2026-11-11",
+   "time": "清晨",
+   "country": "美國",
+   "event": "CoreWeave 財報（美股盤後）",
+   "prior": "",
+   "importance": "中"
+  },
+  {
+   "date": "2026-11-12",
+   "time": "21:30",
+   "country": "美國",
+   "event": "初領失業救濟金",
+   "prior": "",
+   "importance": "中"
+  },
+  {
+   "date": "2026-11-13",
+   "time": "清晨",
+   "country": "美國",
+   "event": "應用材料、思科財報（美股盤後）",
+   "prior": "",
+   "importance": "中"
+  },
+  {
+   "date": "2026-11-13",
+   "time": "21:30",
+   "country": "美國",
+   "event": "10 月 PPI",
+   "prior": "",
+   "importance": "高"
+  },
+  {
+   "date": "2026-12-04",
+   "time": "21:30",
+   "country": "美國",
+   "event": "11 月非農就業與失業率",
+   "prior": "+165 千人／4.1%",
+   "importance": "高"
+  },
+  {
+   "date": "2026-12-10",
+   "time": "03:00",
+   "country": "美國",
+   "event": "FOMC 利率決議",
+   "prior": "3.75–4.00%",
+   "importance": "高"
+  }
+ ],
+ "us_cpi_override": []
+}
